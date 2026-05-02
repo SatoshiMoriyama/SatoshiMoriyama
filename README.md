@@ -17,14 +17,14 @@
 
 バックエンドエンジニア &nbsp;|&nbsp; AWS &nbsp;|&nbsp; Sapporo
 
-2025 AWS Community Builder — Serverless
+2026 AWS Community Builder — Serverless
 
 ---
 
 ## About
 
 - システム開発歴 約18年（バックエンド領域中心）
-- 2025 AWS Community Builder（Serverless 部門）に選出
+- 2026 AWS Community Builder（Serverless）
 - Qiita 週1投稿を継続中（51投稿 / 348 Contributions / 165,000 PV）
 - 割となんでもします
 
@@ -39,14 +39,14 @@
 
 - Solutions Architect – Professional
 - DevOps Engineer – Professional
+- Advanced Networking – Specialty
+- Security – Specialty
+- Machine Learning – Specialty
 - Solutions Architect – Associate
 - Developer – Associate
 - SysOps Administrator – Associate
 - Data Engineer – Associate
 - Machine Learning Engineer – Associate
-- Security – Specialty
-- Advanced Networking – Specialty
-- Machine Learning – Specialty
 - AI Practitioner
 - Cloud Practitioner
 
