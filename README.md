@@ -73,6 +73,3 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SatoshiMoriyama&theme=github_dark" />
 </p>
 
-## Contribution Graph
-
-![snake animation](https://raw.githubusercontent.com/SatoshiMoriyama/SatoshiMoriyama/output/github-contribution-grid-snake.svg)
