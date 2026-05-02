@@ -23,6 +23,7 @@
 
 ## About
 
+- works@serverworks
 - システム開発歴 約18年（バックエンド領域中心）
 - 2026 AWS Community Builder（Serverless）
 - Qiita 週1投稿を継続中（51投稿 / 348 Contributions / 165,000 PV）
