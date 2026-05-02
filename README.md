@@ -1,4 +1,4 @@
-# Satoshi Moriyama (森山 智史)
+# Satoshi Moriyama
 
 <p align="left">
   <a href="https://github.com/SatoshiMoriyama">
